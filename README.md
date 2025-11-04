@@ -11,7 +11,7 @@ It’s organized to be clear for recruiters and collaborators: each project has 
 ## Quick Start
 ```bash
 # clone
-git clone git@github.com:<your-username>/qirui-portfolio.git
+git clone git@github.com:ciqrua/qirui-portfolio.git
 cd qirui-portfolio
 
 # create a Python env (optional but recommended)
