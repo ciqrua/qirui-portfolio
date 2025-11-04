@@ -1,0 +1,11 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+# Optional explainability
+shap
+# Optional notebook tools
+ipykernel
